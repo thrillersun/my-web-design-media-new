@@ -1,0 +1,59 @@
+
+@font-face {
+    font-family: 'BWHaasText';
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasText-55Roman-2558d87ee8.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasText-55Roman-887c01ff69.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasText';
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+    
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasText-65Medium-8c53e89108.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasText-65Medium-8f187b4197.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasText';
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+    
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasText-75Bold-f7da887a51.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasText-75Bold-7a4dd77baf.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'TiemposTextWeb';
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Regular-d1a13989fe.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Regular-0c712f870b.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Regular-ce6578caa5.woff') format('woff'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Regular-564ae670c4.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'TiemposTextWeb';
+    font-display: swap;
+    font-weight: 600;
+    font-style: normal;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Semibold-f61d7b7fe1.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Semibold-f58e21b2ec.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Semibold-9d56c0eef1.woff') format('woff'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Semibold-4d2044a5b2.svg') format('svg');
+}
